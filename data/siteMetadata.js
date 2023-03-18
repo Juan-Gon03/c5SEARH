@@ -3,7 +3,7 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'C5LA Sex Education and Reproductive Health',
-  author: 'Juan Gonzalez',
+  author: 'C5LA S.E.A.R.H.',
   headerTitle: 'C5LA S.E.A.R.H.',
   description: 'A Place to Learn More About Anything Related to Sex Ed and Reproductive Health! ',
   language: 'en-us',
